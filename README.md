@@ -1,2 +1,0 @@
-# oshine
-ejericio oshine
